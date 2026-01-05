@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="title_activity_user_login_screen">UserLoginScreen</string>
+    <string name="title_activity_questionaire">Questionaire</string>
+    <string name="title_activity_food_intake_questionnaire">FoodIntakeQuestionnaire</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_insights">Insights</string>
+    <string name="title_activity_register_user">RegisterUser</string>
+</resources>
